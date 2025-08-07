@@ -1,0 +1,45 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "imageUrl": "https://png.pngtree.com/png-vector/20231017/ourmid/pngtree-fresh-apple-fruit-red-png-image_10203073.png",
+            "name": "Apple",
+            "count": 10,
+            "size": { "width": 5, "height": 5 },
+            "weight": "100g",
+            "comments": [
+                {
+                    "id": 1,
+                    "pruductId": 1,
+                    "description": "Fresh and tasty",
+                    "date": "2025-08-01"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://png.pngtree.com/png-clipart/20220716/ourmid/pngtree-banana-yellow-fruit-banana-skewers-png-image_5944324.png",
+            "name": "Banana",
+            "count": 7,
+            "size": { "width": 6, "height": 15 },
+            "weight": "120g",
+            "comments": [
+                {
+                    "id": 2,
+                    "pruductId": 2,
+                    "description": "Sweet and ripe",
+                    "date": "2025-08-02"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://png.pngtree.com/png-vector/20221109/ourmid/pngtree-carrot-plant-cartoon-vegetable-harvest-png-image_6438910.png",
+            "name": "Carrot",
+            "count": 15,
+            "size": { "width": 2, "height": 18 },
+            "weight": "80g",
+            "comments": []
+        }
+    ]
+}
